@@ -14,9 +14,11 @@ namespace TomJerry
 {
     public partial class Form1 : Form
     {
+        System.Media.SoundPlayer music = new System.Media.SoundPlayer(Properties.Resources.Tom_And_Jerry);
         public Form1()
         {
             InitializeComponent();
+            music.PlayLooping();
             Bitmap tom = new Bitmap(Resources.tom_and_jerry_PNG58__1_);
             this.Cursor = new Cursor(tom.GetHicon());
         }

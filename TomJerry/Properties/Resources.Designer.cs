@@ -101,6 +101,15 @@ namespace TomJerry.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Tom_And_Jerry {
+            get {
+                return ResourceManager.GetStream("Tom_And_Jerry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap tom_and_jerry_PNG58 {
