@@ -124,8 +124,17 @@
   <data name="tom" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tom_and_jerry_PNG58 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tom_and_jerry_PNG58 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="tom_and_jerry_PNG581" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tom_and_jerry_PNG581.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tom_And_Jerry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tom And Jerry.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="pngimg.com - tom_and_jerry_PNG2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngimg.com - tom_and_jerry_PNG2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,16 +142,10 @@
   <data name="tom_and_jerry_PNG58" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tom_and_jerry_PNG58.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unnamed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="jerry" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\jerry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="tom_and_jerry_PNG58 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tom_and_jerry_PNG58 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tom_And_Jerry" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Tom And Jerry.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="tomright" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tomright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

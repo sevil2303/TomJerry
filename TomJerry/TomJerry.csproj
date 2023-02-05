@@ -107,5 +107,8 @@
   <ItemGroup>
     <None Include="Resources\Tom And Jerry.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tomright.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
